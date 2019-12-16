@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bkground">#b9b9ff</color>
+    <color name="bkgroundB">#fb9b9b</color>
+
+
+    <color name="bkgroundC">#00AEFF</color>
+    <color name="bkgroundD">#d0fff0</color>
+    <color name="btnLogin">#00FF00</color>
+</resources>
